@@ -1,1 +1,1 @@
-Code exercises in various langauges
+Code exercises in Ruby and Python
